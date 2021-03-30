@@ -2,10 +2,18 @@
 
 Programmatically generate music using the Sonic-Pi framework.
 
-## Conceptual Structure of Song
+## Conceptual Layout of Song
 
-A song is outlined in various conceptual units that are able to be programmatically 
-generated.
+A song is outlined in various conceptual units that are able to be programmatically generated.
+
+### Mood
+
+### Structure
+
+### Chords
+
+### Song Layers
+
 
 ## Control Surfaces
 
@@ -13,4 +21,4 @@ Each piece will have the design choices able to be selected by interfaceing with
 
 In short, if there is a choice to be made, then that choice or range of opitions is mapped to a variable in Sonic-Pi. 
 The selection of that choice is then subsequently tied to a real world selector, be it MIDI channel, OSC interface, analog hardware input, etc.
-This enables the structural choices made about the song structure able to be controlled via a range of user inputs...
+This enables the input choices made about the song layout able to be controlled via a range of user inputs...
